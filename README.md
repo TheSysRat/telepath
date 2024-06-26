@@ -19,7 +19,8 @@
 
 To install this script, simply download it and make it executable:
 ```
-git clone
+git clone https://github.com/TheSysRat/telepath
+cd telepath
 chmod +x telepath.sh
 ./telepath.sh -h
 ```
