@@ -1,0 +1,65 @@
+b=2023
+b=23
+e=2023
+e=23
+e=23 b=23
+b=2023 e=2023
+l=True b=23
+l=True e=23
+l=True b=2023
+l=True e=23
+u=True b=23
+u=True e=23
+u=True b=2023
+u=True e=23
+s=1234567890
+s=123456789
+s=12345678
+s=1234567
+s=123456
+s=12345
+s=1234
+s=123
+s=12
+s=1
+l=True s=1234567890
+l=True s=123456789
+l=True s=12345678
+l=True s=1234567
+l=True s=123456
+l=True s=12345
+l=True s=1234
+l=True s=123
+l=True s=12
+l=True s=1
+u=True s=1234567890
+u=True s=123456789
+u=True s=12345678
+u=True s=1234567
+u=True s=123456
+u=True s=12345
+u=True s=1234
+u=True s=123
+u=True s=12
+u=True s=1
+b=SECURITY2023
+e=SECURITY2023
+e=SECURITY2023 b=SECURITY2023
+l=True b=SECURITY2023
+l=True e=SECURITY2023
+l=True e=SECURITY2023 b=SECURITY2023
+u=True b=SECURITY2023
+u=True e=SECURITY2023
+u=True e=SECURITY2023 b=SECURITY2023
+b=@
+b=@ e=!
+b=@ e=23
+b=@ e=2023
+b=@ e=SECURITY2023
+b=@ e=security2023
+l=True b=security2023
+l=True e=security2023
+l=True e=security2023 b=security2023
+u=True b=security2023
+u=True e=security2023
+u=True e=security2023 b=security2023
