@@ -2,7 +2,7 @@
 ### Telepath - custom wordlist generator using templates. Telepath is "Mentalist" on steroids...just simple, lightweight bash script! You can use it for generating by your own templates or single custom oneround customization wordlist. Let's play RedTeamers !!
 
 <picture>
- <img src="/img/telepath.png">
+ <img src="/Pics/telepath.png">
 </picture>
 
 # Table of Contents
